@@ -5,9 +5,9 @@
    zodat je de afmeting goed kunt zien, 
    let op 1: dit kan de layout soms kan wijzigen 
    let op 2: laat 1 sterretje voor { staan als je commentaar weghaalt */
-  /*  * {border: 1px dotted black;}   */
+ * {border: 1px dotted black;}  */
   
-/* zorg dat elke box een doorzichtige donkere achtergrond krijgt, 
+ /* zorg dat elke box een doorzichtige donkere achtergrond krijgt, 
    hoe meer boxen in elkaar hoe donkerder de achtergrondkleur 
    letop: laat 1 sterretje voor { staan als je commentaar weghaalt */
 /*  * {background-color: rgba(0,0,0,5%);}  */
@@ -120,10 +120,20 @@ nav li a.active {
 
 /* .item {} */ /* hier doen we nog niks mee, dat mag je zelf toevoegen */
 
+.item-plaatje-filmrol {
+  float: right;
+  width: 230px;
+}
+
 .item-plaatje {
   float: left;
   width: 250px;
   padding-right: 15px; /* zorgt dat plaatje niet tegen tekst komt */
+}
+
+.item-tekst-intro {
+  float: left;
+  width: 450px;
 }
 
 .item-tekst {
@@ -131,8 +141,31 @@ nav li a.active {
   width: 450px;
 }
 
+.genre{
+  float: left;
+  width: 33%;
+}
+.rood {
+  background-color: #6a0101;
+}
+.groen{
+  background-color:#01510a;
+}
+.blauw {
+  background-color: #031363;
+}
+.geel {
+  background-color: #8f8124;
+}
+.grijs {
+  background-color: #636363;
+}
+.lichtblauw {
+  background-color: #11717e;
+}
 /************************* SUBPAGINA *************************/
 
 /* Indeling en opmaak voor subpagina */
 
 /* verzin deze zelf... */
+
