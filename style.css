@@ -5,8 +5,8 @@
    zodat je de afmeting goed kunt zien, 
    let op 1: dit kan de layout soms kan wijzigen 
    let op 2: laat 1 sterretje voor { staan als je commentaar weghaalt */
- * {border: 1px dotted black;}  */
-  
+/* * {border: 1px dotted black;}  */
+
  /* zorg dat elke box een doorzichtige donkere achtergrond krijgt, 
    hoe meer boxen in elkaar hoe donkerder de achtergrondkleur 
    letop: laat 1 sterretje voor { staan als je commentaar weghaalt */
@@ -68,7 +68,7 @@ img {
 }
 
 a {
-  color: #91f2e7;
+  color: #00a1d8;
   text-decoration: none;
 }
 
@@ -99,7 +99,7 @@ nav ul li {                     /* <li> die child is van <ul> die op zijn beurt 
 
 nav li a {
   display: block;
-  color: white;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -146,22 +146,28 @@ nav li a.active {
   width: 33%;
 }
 .rood {
-  background-color: #6a0101;
+  background-color:#6a0101;
+  padding: 14px 16px;
 }
 .groen{
   background-color:#01510a;
+  padding: 14px 16px;
 }
 .blauw {
   background-color: #031363;
+  padding: 14px 16px;
 }
 .geel {
   background-color: #8f8124;
+  padding: 14px 16px;
 }
 .grijs {
   background-color: #636363;
+  padding: 14px 16px;
 }
 .lichtblauw {
   background-color: #11717e;
+  padding: 14px 16px;
 }
 /************************* SUBPAGINA *************************/
 
