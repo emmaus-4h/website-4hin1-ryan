@@ -149,31 +149,43 @@ nav li a.active {
   background-color:#6a0101;
   padding: 14px 16px;
   margin: 10px 20px;
+  text-align: center;
+  color: #ffcccc;
 }
 .groen{
   background-color:#01510a;
   padding: 14px 16px;
   margin: 10px 20px;
+  text-align: center;
+  color: #ccffcf;
 }
 .blauw {
   background-color: #031363;
   padding: 14px 16px;
   margin: 10px 20px;
+  text-align: center;
+  color: #c6c2ff;
 }
 .geel {
   background-color: #8f8124;
   padding: 14px 16px;
   margin: 10px 20px;
+  text-align: center;
+  color: #fff5d1;
 }
 .grijs {
   background-color: #636363;
   padding: 14px 16px;
   margin: 10px 20px;
+  text-align: center;
+  color: #d4d4d4;
 }
 .lichtblauw {
   background-color: #11717e;
   padding: 14px 16px;
   margin: 10px 20px;
+  text-align: center;
+  color: #ccfeff;
 }
 /************************* SUBPAGINA *************************/
 
