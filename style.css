@@ -140,6 +140,10 @@ nav li a.active {
   float: right;
   width: 450px;
 }
+ .item-tekst-bedrijf {
+   float: left;
+   width: 450px;
+ }
 
 .genre{
   float: left;
