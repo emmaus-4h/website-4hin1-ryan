@@ -191,6 +191,33 @@ nav li a.active {
   text-align: center;
   color: #ccfeff;
 }
+.editen {
+background-color: #f3f9ec;
+padding: 14px 16px;
+margin: 10px 20px;
+text-allign: center;
+}
+
+.blue-screen {
+background-color:#f3f9ec;
+padding: 14px 16px;
+margin: 10px 20px;
+text-allign: center;
+}
+
+.blue-screen-OL {
+background: linear-gradient(to  bottom, #b1dd8b, #fff994);
+padding: 14px 16px;
+margin: 10px 20px;
+text-allign: center;
+}
+
+.editen-OL {
+background: linear-gradient(to  bottom, #fff994, #52d6fc);
+padding: 14px 16px;
+margin: 10px 20px;
+text-allign: center;
+}
 /************************* SUBPAGINA *************************/
 
 /* Indeling en opmaak voor subpagina */
